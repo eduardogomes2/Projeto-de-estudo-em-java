@@ -1,0 +1,8 @@
+# Arquivos compilados do Java
+*.class
+
+# JDK local
+oracleJdk-26/
+
+# Configuracoes locais do VS Code
+.vscode/
