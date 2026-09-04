@@ -30,7 +30,7 @@ A primeira versão funciona pelo terminal e permite cadastrar, listar, buscar, a
 - Tratamento de exceções
 - Git e controle de versão
 
-
+```text
 ## Estrutura do projeto
 CRUD-Lkdn
 ├── console
@@ -44,10 +44,7 @@ CRUD-Lkdn
 
 É necessário ter o JDK 17 ou superior instalado.
 
-Entre na pasta:
+Entre na pasta: cd console
 
-cd console
-
-Compile:
-java CrudEstoque
+Compile: java CrudEstoque
 
